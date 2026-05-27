@@ -6,5 +6,9 @@ export default defineConfig({
   server: {
     port: 3000,
     open: true
+  },
+  preview: {
+    host: '0.0.0.0',
+    port: process.env.PORT ? parseInt(process.env.PORT) : 4173
   }
 })
