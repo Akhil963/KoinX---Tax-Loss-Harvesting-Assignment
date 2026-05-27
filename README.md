@@ -374,7 +374,7 @@ After Harvesting:
 ### Light Mode - Initial State
 Desktop view showing the complete interface with Pre and After Harvesting cards side-by-side, Important Notes & Disclaimers accordion, and the beginning of the Holdings table.
 
-![Light Mode Overview](./Screenshorts/Light Mode.jpe)
+![Light Mode Overview](./Screenshorts/Light%20Mode%20Overview.jpe)
 
 **Features Visible:**
 - ✅ KoinX header with dark mode toggle
@@ -388,7 +388,7 @@ Desktop view showing the complete interface with Pre and After Harvesting cards 
 ### Holdings Table - Light Mode
 Detailed view of the interactive holdings table with cryptocurrency assets, their gains/losses, and selection checkboxes.
 
-![Holdings Table](./Screenshorts/Holdings Table.jpe)
+![Holdings Table](./Screenshorts/holdings%20table.jpe)
 
 **Table Features:**
 - ✅ Select All / Deselect All checkbox in header
@@ -417,7 +417,7 @@ Shows how the "After Harvesting" card updates instantly when BTC is selected fro
 ### Dark Mode - Full Interface
 Complete dark mode view demonstrating the theme toggle functionality.
 
-![Dark Mode Interface](./Screenshorts/Dark Mode.jpe)
+![Dark Mode Interface](./Screenshorts/Dark%20Mode.jpe)
 
 **Dark Mode Features:**
 - ✅ Dark gray background for reduced eye strain
