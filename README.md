@@ -374,7 +374,7 @@ After Harvesting:
 ### Light Mode - Initial State
 Desktop view showing the complete interface with Pre and After Harvesting cards side-by-side, Important Notes & Disclaimers accordion, and the beginning of the Holdings table.
 
-![Light Mode Overview](https://vscode-chat-response-resource://7673636f64652d636861742d73657373696f6e3a2f2f6c6f63616c2f4e7a4268596a5179597a4d744d545a684d6930305a5441334c5745304e6a67744e6d59304d7a49324d4463304e6a6b30/tool/toolu_bdrk_01Rcbt89iJMcNPMhr4qCRdVo/0/file.jpe)
+![Light Mode Overview](./Screenshorts/Light Mode.jpe)
 
 **Features Visible:**
 - ✅ KoinX header with dark mode toggle
@@ -388,7 +388,7 @@ Desktop view showing the complete interface with Pre and After Harvesting cards 
 ### Holdings Table - Light Mode
 Detailed view of the interactive holdings table with cryptocurrency assets, their gains/losses, and selection checkboxes.
 
-![Holdings Table](https://vscode-chat-response-resource://7673636f64652d636861742d73657373696f6e3a2f2f6c6f63616c2f4e7a4268596a5179597a4d744d545a684d6930305a5441334c5745304e6a67744e6d59304d7a49324d4463304e6a6b30/tool/toolu_bdrk_01P1sRSbnVdPbLBjTYC5xAZp/0/file.jpe)
+![Holdings Table](./Screenshorts/Holdings Table.jpe)
 
 **Table Features:**
 - ✅ Select All / Deselect All checkbox in header
@@ -404,7 +404,7 @@ Detailed view of the interactive holdings table with cryptocurrency assets, thei
 ### Real-time Updates - After Selection
 Shows how the "After Harvesting" card updates instantly when BTC is selected from the holdings table.
 
-![Real-time Calculation Updates](https://vscode-chat-response-resource://7673636f64652d636861742d73657373696f6e3a2f2f6c6f63616c2f4e7a4268596a5179597a4d744d545a684d6930305a5441334c5745304e6a67744e6d59304d7a49324d4463304e6a6b30/tool/toolu_bdrk_01HjZaL7oyQVfHqReeTYxgnf/0/file.jpe)
+![Real-time Calculation Updates](./Screenshorts/Real%20time%20AFter%20selection.jpe)
 
 **Real-time Changes:**
 - ✅ Short-term Losses: -₹1548.53 → -₹2748.53 (BTC loss added)
@@ -417,7 +417,7 @@ Shows how the "After Harvesting" card updates instantly when BTC is selected fro
 ### Dark Mode - Full Interface
 Complete dark mode view demonstrating the theme toggle functionality.
 
-![Dark Mode Interface](<img src="Screenshorts/Dark Mode.jpeg" alt="Dark Mode Interface" width="600"/>)
+![Dark Mode Interface](./Screenshorts/Dark Mode.jpe)
 
 **Dark Mode Features:**
 - ✅ Dark gray background for reduced eye strain
